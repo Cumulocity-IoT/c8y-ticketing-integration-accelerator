@@ -1,0 +1,1 @@
+# c8y-ticketing-integration-accelerator
