@@ -37,3 +37,6 @@ This accelerator allows to integrate Cumulocity IoT with Ticketing Platforms lik
     2. POST /tickets and map it to createTicket FlowService.
     3. GET /tickets/{id}/comments and map it to getTicketComments FlowService.
 7. Find API endpoint in Basic information section of API Detail page.
+
+______________________
+These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.	
