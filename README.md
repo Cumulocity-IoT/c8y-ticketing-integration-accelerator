@@ -38,5 +38,22 @@ This accelerator allows to integrate Cumulocity IoT with Ticketing Platforms lik
     3. GET /tickets/{id}/comments and map it to getTicketComments FlowService.
 7. Find API endpoint in Basic information section of API Detail page.
 
+# Useful links 
+
+📘 Explore the Knowledge Base   
+Dive into a wealth of Cumulocity IoT tutorials and articles in our [Tech Community Knowledge Base](https://tech.forums.softwareag.com/tags/c/knowledge-base/6/cumulocity-iot).  
+
+💡 Get Expert Answers    
+Stuck or just curious? Ask the Cumulocity IoT experts directly on our [Forum](https://tech.forums.softwareag.com/tags/c/forum/1/Cumulocity-IoT).   
+
+🚀 Try Cumulocity IoT    
+See Cumulocity IoT in action with a [Free Trial](https://techcommunity.softwareag.com/en_en/downloads.html).   
+
+✍️ Share Your Feedback    
+Your input drives our innovation. If you find a bug, please create an issue in the repository. If you’d like to share your ideas or feedback, please post them [here](https://tech.forums.softwareag.com/c/feedback/2). 
+
+More to discover
+* [Sync GitHub Issue to Zendesk Ticket](https://tech.forums.softwareag.com/t/sync-github-issue-to-zendesk-ticket/240036)  
+* [Cumulocity IoT Alarm Integration with 3rd Party Ticketing Systems](https://tech.forums.softwareag.com/t/cumulocity-iot-alarm-integration-with-3rd-party-ticketing-systems/285256)  
 ______________________
 These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.	
